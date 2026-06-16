@@ -1,0 +1,27 @@
+hello=Hello! Nice to meet you.
+
+hi=Hi there! How can I help you?
+
+who are you=I am an AI Chatbot developed using Java.
+
+what is java=Java is an object-oriented programming language.
+
+how are you=I am functioning perfectly.
+
+thank you=You're welcome.
+
+bye=Goodbye! Have a wonderful day.
+
+help=You can ask me about Java, date, time, jokes or calculations.
+
+good morning=Good morning! Hope you have a productive day.
+
+good evening=Good evening! How can I help you?
+
+good night=Good night. Sleep well.
+
+your name=My name is CodeAlpha AI Bot.
+c++=c++ is a high level programming language
+html=html is a type of language that plays the msot important role in the frontend development
+react=react is a type of javascript library
+bot=bot is used for something that is at their worst level of performance

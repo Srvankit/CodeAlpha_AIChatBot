@@ -1,0 +1,221 @@
+[2026-06-16 22:05:13]
+
+You : hello
+Bot : Hello! Nice to meet you.
+
+You : joke
+Bot : Why do programmers prefer dark mode? Because light attracts bugs.
+
+You : calculate 25+15
+Bot : Result = 40
+
+-------------------------------------
+[2026-06-16T13:13:25.068282600]
+You : hello
+Bot : Hello! Nice to meet you.
+-------------------------
+
+[2026-06-16T13:13:27.625024100]
+You : time
+Bot : Current time: 13:13
+-------------------------
+
+[2026-06-16T13:13:30.997601600]
+You : joke
+Bot : A SQL query walks into a bar, walks up to two tables and says: Can I join you?
+-------------------------
+
+[2026-06-16T13:13:36.866901600]
+You : help
+Bot : You can ask me about Java, date, time, jokes or calculations.
+-------------------------
+
+[2026-06-16T13:13:42.189716700]
+You : bye
+Bot : Goodbye! Have a wonderful day.
+-------------------------
+
+[2026-06-16T13:18:48.346894]
+You : learn c++=c++ is a high level programming language
+Bot : New knowledge saved successfully.
+-------------------------
+
+[2026-06-16T13:18:52.788182400]
+You : c++
+Bot : c++ is a high level programming language
+-------------------------
+
+[2026-06-16T13:18:56.301028700]
+You : bye
+Bot : Goodbye! Have a wonderful day.
+-------------------------
+
+[2026-06-16T13:19:03.269927800]
+You : c++
+Bot : c++ is a high level programming language
+-------------------------
+
+[2026-06-16T13:21:15.531027900]
+You : bye
+Bot : Goodbye! Have a wonderful day.
+-------------------------
+
+[2026-06-16T13:21:31.479577]
+You : bye
+Bot : Goodbye! Have a wonderful day.
+-------------------------
+
+[2026-06-16T13:22:15.754380100]
+You : learn html=html is a type of language that plays the msot important role in the frontend development
+Bot : New knowledge saved successfully.
+-------------------------
+
+[2026-06-16T13:22:19.807316400]
+You : html
+Bot : html is a type of language that plays the msot important role in the frontend development
+-------------------------
+
+[2026-06-16T13:36:22.831041600]
+You : bye
+Bot : Goodbye! Have a wonderful day.
+-------------------------
+
+[2026-06-16T13:36:36.352426900]
+You : hi
+Bot : Hi there! How can I help you?
+-------------------------
+
+[2026-06-16T13:36:38.790280600]
+You : hello
+Bot : Hello! Nice to meet you.
+-------------------------
+
+[2026-06-16T13:36:44.676572700]
+You : what u doing
+Bot : Sorry, I don't understand that yet.
+-------------------------
+
+[2026-06-16T13:36:48.264860600]
+You : really?
+Bot : Sorry, I don't understand that yet.
+-------------------------
+
+[2026-06-16T13:36:50.785083400]
+You : daate
+Bot : Sorry, I don't understand that yet.
+-------------------------
+
+[2026-06-16T13:36:53.614563300]
+You : date
+Bot : Today's date: 2026-06-16
+-------------------------
+
+[2026-06-16T13:36:55.796272400]
+You : time
+Bot : Current time: 13:36
+-------------------------
+
+[2026-06-16T13:37:14.513359200]
+You : learn react=react is a type of javascript library
+Bot : New knowledge saved successfully.
+-------------------------
+
+[2026-06-16T13:37:18.098671]
+You : react
+Bot : react is a type of javascript library
+-------------------------
+
+[2026-06-16T13:37:22.717098200]
+You : thank you
+Bot : You're welcome.
+-------------------------
+
+[2026-06-16T13:37:24.487513800]
+You : bye
+Bot : Goodbye! Have a wonderful day.
+-------------------------
+
+[2026-06-16T13:55:20.914122800]
+You : hello
+Bot : Hello! Nice to meet you.
+-------------------------
+
+[2026-06-16T13:55:23.072139]
+You : help
+Bot : AVAILABLE COMMANDS
+
+hello
+
+time
+
+date
+
+joke
+
+calculate 25+15
+
+learn question=answer
+
+bye
+
+-------------------------
+
+[2026-06-16T13:55:32.055129800]
+You : time
+Bot : Current time: 13:55
+-------------------------
+
+[2026-06-16T13:55:33.161541900]
+You : date
+Bot : Today's date: 2026-06-16
+-------------------------
+
+[2026-06-16T13:55:35.002886500]
+You : joke
+Bot : Why did Java break up with C++? Too many pointers.
+-------------------------
+
+[2026-06-16T13:55:38.466947300]
+You : joke
+Bot : A SQL query walks into a bar and says: Can I join you?
+-------------------------
+
+[2026-06-16T13:55:40.186200100]
+You : joke
+Bot : Why do programmers prefer dark mode? Because light attracts bugs.
+-------------------------
+
+[2026-06-16T13:55:42.586580800]
+You : joke
+Bot : Why did Java break up with C++? Too many pointers.
+-------------------------
+
+[2026-06-16T13:55:45.676819400]
+You : joke
+Bot : Why do programmers prefer dark mode? Because light attracts bugs.
+-------------------------
+
+[2026-06-16T13:55:47.423615]
+You : joke
+Bot : Why do programmers prefer dark mode? Because light attracts bugs.
+-------------------------
+
+[2026-06-16T13:55:50.868480600]
+You : joke
+Bot : Why did Java break up with C++? Too many pointers.
+-------------------------
+
+[2026-06-16T13:56:05.053507100]
+You : learn c++=c++ is a programming language
+Bot : New knowledge saved successfully.
+-------------------------
+
+[2026-06-16T13:56:30.507437500]
+You : learn bot=bot is used for something that is at their worst level of performance
+Bot : New knowledge saved successfully.
+-------------------------
+
+[2026-06-16T13:56:33.647247]
+You : bye
+Bot : Goodbye! Have a wonderful day.
+-------------------------
